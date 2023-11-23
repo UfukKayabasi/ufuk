@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/Dersler/Workspace/Cpp/Deneme/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Deneme.dir\\Deneme.cpp.obj -c C:\\Users\\user\\Desktop\\Dersler\\Workspace\\Cpp\\Deneme\\Deneme.cpp",
+  "file": "C:/Users/user/Desktop/Dersler/Workspace/Cpp/Deneme/Deneme.cpp",
+  "output": "CMakeFiles/Deneme.dir/Deneme.cpp.obj"
+}
+]
