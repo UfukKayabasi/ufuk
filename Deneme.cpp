@@ -9,7 +9,9 @@ int main() {
 
 
 
-    std::cout << "Test" << std::endl;
 
+    std::cout << "Test" << std::endl;    
+    std::cout << "Yapiliyor" << std::endl;
     return 0;
+
 }
